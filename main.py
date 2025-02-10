@@ -10,3 +10,6 @@ if __name__ == "__main__":
     number = int(input("Enter a number: "))
     result = check_even_odd(number)
     print(f"The number {number} is {result}.")
+
+def main_function():
+    print("This is the second Python file.")

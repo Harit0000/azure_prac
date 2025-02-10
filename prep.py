@@ -12,6 +12,7 @@ if __name__ == "__main__":
     print(f"The largest number is {largest}.")
     print("This is the first commit in this file")
     print("This is the second commit in this file")
+    print("This is the third commit in this file")
 
 def prep_function():
     print("This is the second Python file.")

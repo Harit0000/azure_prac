@@ -10,6 +10,3 @@ if __name__ == "__main__":
     
     interest = calculate_simple_interest(principal, rate, time)
     print(f"The simple interest is: {interest}")
-
-def test_function():
-    print("This is the second Python file.")

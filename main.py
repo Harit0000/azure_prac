@@ -12,4 +12,4 @@ if __name__ == "__main__":
     print(f"The number {number} is {result}.")
 
 def main_function():
-    print("This is the second Python file.")
+    print("This is the first Python file.")
